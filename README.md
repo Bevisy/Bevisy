@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Bevisy's github stats](https://github-readme-stats.vercel.app/api?username=Bevisy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+A container R&D engineer, currently working on secure containers at [easystack](https://www.easystack.cn/).
+
+- Read more about my [Blog](http://bevisy.github.io/)
+- Talk with me by [Email](mailto:binbin36520@gmail.com)
+
 <!--
 **Bevisy/Bevisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
