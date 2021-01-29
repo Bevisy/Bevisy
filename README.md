@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Bevisy's github stats](https://github-readme-stats.vercel.app/api?username=Bevisy&show_icons=true&theme=dark)](http://bevisy.github.io/)
+[![Bevisy's github stats](https://github-readme-stats.vercel.app/api?username=Bevisy&show_icons=true&theme=dark&include_all_commits=true)](http://bevisy.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bevisy&layout=compact)](http://bevisy.github.io/)
 
 A container R&D engineer, currently working on secure containers at [easystack](https://www.easystack.cn/).
 
